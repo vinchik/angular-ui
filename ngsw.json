@@ -1,0 +1,137 @@
+{
+  "configVersion": 1,
+  "timestamp": 1703000593662,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/514.f26bf363642c9414.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.0c7c801a7cb7cfb4.js",
+        "/manifest.webmanifest",
+        "/polyfills.a2de065f1d5fe58e.js",
+        "/runtime.73b59644f4f0dcd5.js",
+        "/styles.451524cde5938429.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/redesign/add-.svg",
+        "/assets/redesign/arrow-back.svg",
+        "/assets/redesign/back-icon.svg",
+        "/assets/redesign/book-.svg",
+        "/assets/redesign/crossword.svg",
+        "/assets/redesign/dialog.svg",
+        "/assets/redesign/edit-.svg",
+        "/assets/redesign/feather-icon.svg",
+        "/assets/redesign/filter-.svg",
+        "/assets/redesign/footer-hole.svg",
+        "/assets/redesign/footer-no-hole.svg",
+        "/assets/redesign/game-.svg",
+        "/assets/redesign/image-.svg",
+        "/assets/redesign/loader-circle.svg",
+        "/assets/redesign/loader.svg",
+        "/assets/redesign/loudspeaker.svg",
+        "/assets/redesign/mic.svg",
+        "/assets/redesign/next.svg",
+        "/assets/redesign/person-.svg",
+        "/assets/redesign/play.svg",
+        "/assets/redesign/plus-sign.svg",
+        "/assets/redesign/statistics.svg",
+        "/assets/redesign/tick-TEST.svg",
+        "/assets/redesign/tick.svg",
+        "/assets/worklets/recorder-worklet.js",
+        "/footer-hole.369738d5d9713b65.svg",
+        "/footer-no-hole.6394dd6b42c022be.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/514.f26bf363642c9414.js": "2528fc1d79d49bca344b004f201708160903af72",
+    "/assets/icons/icon-128x128.png": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/icons/icon-512x512.png": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/icons/icon-72x72.png": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/icons/icon-96x96.png": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/redesign/add-.svg": "6c1980e38aa172f01d01b12858092d8ad6336840",
+    "/assets/redesign/arrow-back.svg": "a0a81477d499f0354ded999b61495552056ebc07",
+    "/assets/redesign/back-icon.svg": "7d92c72ad9e90df8eb6d7c52e22f5cc2b40f5239",
+    "/assets/redesign/book-.svg": "4723b42848b25465980f5ad91c06aedd61def304",
+    "/assets/redesign/crossword.svg": "f5a35f3abef28c8d7e93e5dbaa6066641f7113e7",
+    "/assets/redesign/dialog.svg": "b4fa801feba87191e8e7e2ce1a578716144ba785",
+    "/assets/redesign/edit-.svg": "9796e6fcc2b64daf6a96b48218d8a5c105277e57",
+    "/assets/redesign/feather-icon.svg": "db6b5766b8111c652bb33ba73bef6582236bd165",
+    "/assets/redesign/filter-.svg": "367bc57916455537dd2d554598c854b48ab5cbc9",
+    "/assets/redesign/footer-hole.svg": "ee874c66caad479c67aa33b9ff86763dd013cb2a",
+    "/assets/redesign/footer-no-hole.svg": "c3044f6aed0efff4841e104524126aac0eaedd93",
+    "/assets/redesign/game-.svg": "8b10b3edea6cbc57a9a446334432681a3166f07c",
+    "/assets/redesign/image-.svg": "df6ca1ebed1f06b6078e4ad26043f80e8c4d282f",
+    "/assets/redesign/loader-circle.svg": "e1ca4c6b061d8ff463854b61dbf13452e66a3e0a",
+    "/assets/redesign/loader.svg": "4ed7277112a7209c3c78e779e0171a45c118edde",
+    "/assets/redesign/loudspeaker.svg": "cca5288f65b3bdf161c270e1186a4ba594fcd121",
+    "/assets/redesign/mic.svg": "207d1ce05acb8e0d380eb65657a6641d346e550e",
+    "/assets/redesign/next.svg": "70584bee7057ee6cbcb724015441f71204b3362f",
+    "/assets/redesign/person-.svg": "51ec5d7b9d7a69c5e9e422c144754591f511f453",
+    "/assets/redesign/play.svg": "f834fb781d3edb7f82bd91d3de485ef0464ebe25",
+    "/assets/redesign/plus-sign.svg": "ec095c0e1faef186eb6f75e85c82a0a77b4c0f34",
+    "/assets/redesign/statistics.svg": "b6a7280412637667283ea52f0cd680c54d25981d",
+    "/assets/redesign/tick-TEST.svg": "99075f56ce0390c12c367fe7b03cc6a9c5a8b4a0",
+    "/assets/redesign/tick.svg": "d35a8d7dd02363514eed784809e570abc1d5a3b1",
+    "/assets/worklets/recorder-worklet.js": "92aaadc5b4e39674c2391d4e3c7a5e09d74e44ca",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/footer-hole.369738d5d9713b65.svg": "ee874c66caad479c67aa33b9ff86763dd013cb2a",
+    "/footer-no-hole.6394dd6b42c022be.svg": "c3044f6aed0efff4841e104524126aac0eaedd93",
+    "/index.html": "46c140496900039657f63b8e3b33be35613e10f7",
+    "/main.0c7c801a7cb7cfb4.js": "4ee37a91c4e99e26821481455a2f1aa7c3722cd0",
+    "/manifest.webmanifest": "8ecc9e10414390f98dd151aff272f192e3708e8c",
+    "/polyfills.a2de065f1d5fe58e.js": "a7c2971e90d081e7177850e9958149dbd850d7a3",
+    "/runtime.73b59644f4f0dcd5.js": "ad776ffa9b22014c9ef34dda4bb9ffd4e3e28e93",
+    "/styles.451524cde5938429.css": "42e530c8f73c811223c001e132ee75cd3168803b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
