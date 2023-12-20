@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1703067358935,
+  "timestamp": 1703069530926,
   "index": "/angular-ui/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/angular-ui/514.f26bf363642c9414.js",
         "/angular-ui/favicon.ico",
         "/angular-ui/index.html",
-        "/angular-ui/main.7796552692eebe82.js",
+        "/angular-ui/main.8e23abd6d9818346.js",
         "/angular-ui/manifest.webmanifest",
         "/angular-ui/polyfills.a2de065f1d5fe58e.js",
         "/angular-ui/runtime.1db09eb8490e9a15.js",
@@ -108,8 +108,8 @@
     "/angular-ui/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/angular-ui/footer-hole.369738d5d9713b65.svg": "ee874c66caad479c67aa33b9ff86763dd013cb2a",
     "/angular-ui/footer-no-hole.6394dd6b42c022be.svg": "c3044f6aed0efff4841e104524126aac0eaedd93",
-    "/angular-ui/index.html": "8d8212fbad159449b6b4e187b2263e123de85873",
-    "/angular-ui/main.7796552692eebe82.js": "6fd8bbfc365cc35db34e5495a2d1a538a31276f3",
+    "/angular-ui/index.html": "f1a5f444eaf04adf2013a2f2793dfeeacb20710b",
+    "/angular-ui/main.8e23abd6d9818346.js": "0fd9be1fd22f2c6f256bd69204fe74895c95dd4d",
     "/angular-ui/manifest.webmanifest": "8ecc9e10414390f98dd151aff272f192e3708e8c",
     "/angular-ui/polyfills.a2de065f1d5fe58e.js": "a7c2971e90d081e7177850e9958149dbd850d7a3",
     "/angular-ui/runtime.1db09eb8490e9a15.js": "5a51676641fed9dc1985efdfc7e0cb7c1559e781",
