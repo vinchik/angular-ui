@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1703076070680,
+  "timestamp": 1703603224862,
   "index": "/angular-ui/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/angular-ui/514.f26bf363642c9414.js",
+        "/angular-ui/514.3d33c413fb272d37.js",
         "/angular-ui/favicon.ico",
         "/angular-ui/index.html",
-        "/angular-ui/main.8e23abd6d9818346.js",
+        "/angular-ui/main.858db675008c1684.js",
         "/angular-ui/manifest.webmanifest",
         "/angular-ui/polyfills.a2de065f1d5fe58e.js",
-        "/angular-ui/runtime.1db09eb8490e9a15.js",
+        "/angular-ui/runtime.568013e597832134.js",
         "/angular-ui/styles.451524cde5938429.css"
       ],
       "patterns": []
@@ -72,7 +72,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/angular-ui/514.f26bf363642c9414.js": "2528fc1d79d49bca344b004f201708160903af72",
+    "/angular-ui/514.3d33c413fb272d37.js": "5eda393f2a5167924cc26858bd67327fc8eb3f9d",
     "/angular-ui/assets/icons/128.png": "cdad082b78ed2eea5cc754589fe0110eab01d6e6",
     "/angular-ui/assets/icons/144.png": "ca50e7dff04b3143b6551df527faf6c4c253183c",
     "/angular-ui/assets/icons/152.png": "d88014635d4f412dbbdc67cc43b859e5aba7a4bb",
@@ -110,11 +110,11 @@
     "/angular-ui/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/angular-ui/footer-hole.369738d5d9713b65.svg": "ee874c66caad479c67aa33b9ff86763dd013cb2a",
     "/angular-ui/footer-no-hole.6394dd6b42c022be.svg": "c3044f6aed0efff4841e104524126aac0eaedd93",
-    "/angular-ui/index.html": "f1a5f444eaf04adf2013a2f2793dfeeacb20710b",
-    "/angular-ui/main.8e23abd6d9818346.js": "0fd9be1fd22f2c6f256bd69204fe74895c95dd4d",
+    "/angular-ui/index.html": "176b2b0a1aa167d87a264bb93310ec8708e222ab",
+    "/angular-ui/main.858db675008c1684.js": "5962cfac60600a3c23a3bbab76d1d437a9720101",
     "/angular-ui/manifest.webmanifest": "8d2b17e2b773f3f6530b5b458fc28f19990b3484",
     "/angular-ui/polyfills.a2de065f1d5fe58e.js": "a7c2971e90d081e7177850e9958149dbd850d7a3",
-    "/angular-ui/runtime.1db09eb8490e9a15.js": "5a51676641fed9dc1985efdfc7e0cb7c1559e781",
+    "/angular-ui/runtime.568013e597832134.js": "239216ad46eeda619598b3dbe6387e7314a08ec3",
     "/angular-ui/styles.451524cde5938429.css": "42e530c8f73c811223c001e132ee75cd3168803b"
   },
   "navigationUrls": [
