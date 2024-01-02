@@ -1,7 +1,7 @@
 {
-  "id": "angular-ui",
-  "name": "angular-ui",
-  "short_name": "angular-ui",
+  "id": "say-and-remember",
+  "name": "Say and remember",
+  "short_name": "Say and remember",
   "theme_color": "#7cf10e",
   "background_color": "#f60cf2",
   "display": "fullscreen",
