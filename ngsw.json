@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1704380525290,
+  "timestamp": 1704380768974,
   "index": "/angular-ui/index.html",
   "assetGroups": [
     {
@@ -96,7 +96,7 @@
     "/angular-ui/footer-no-hole.6394dd6b42c022be.svg": "c3044f6aed0efff4841e104524126aac0eaedd93",
     "/angular-ui/index.html": "cd1b59adc9520f42ac531af51edb444937e8fde8",
     "/angular-ui/main.2964615d1c4af773.js": "e78159aa04b17e4cdcbb261dc88ff6b1255123d8",
-    "/angular-ui/manifest.webmanifest": "5defa38c6131d14b31f76584b5683a8915c0220b",
+    "/angular-ui/manifest.webmanifest": "568f3382476f11bc76b3edf1e322590322c27ea5",
     "/angular-ui/polyfills.a2de065f1d5fe58e.js": "a7c2971e90d081e7177850e9958149dbd850d7a3",
     "/angular-ui/runtime.568013e597832134.js": "239216ad46eeda619598b3dbe6387e7314a08ec3",
     "/angular-ui/styles.80cf0b284c3d242b.css": "54e737cac024be82a0a0f9c2e7f4d197718374f5"
