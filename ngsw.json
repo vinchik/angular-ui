@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1704881364181,
+  "timestamp": 1705242694945,
   "index": "/angular-ui/index.html",
   "assetGroups": [
     {
@@ -96,9 +96,9 @@
     "/angular-ui/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/angular-ui/footer-hole.369738d5d9713b65.svg": "ee874c66caad479c67aa33b9ff86763dd013cb2a",
     "/angular-ui/footer-no-hole.6394dd6b42c022be.svg": "c3044f6aed0efff4841e104524126aac0eaedd93",
-    "/angular-ui/index.html": "af24e89850b7c17130a9b38f4a7011d03339f5d8",
+    "/angular-ui/index.html": "4f13f1b2aa91c6eddd4fdc60b39a4c975fb3bb76",
     "/angular-ui/main.191a18b93f294d05.js": "68278760cf375c46b7fda107f8e098dd7f5a911a",
-    "/angular-ui/manifest.webmanifest": "0db9f7b1b2df4e217f8565ff0a486a7fb32049f3",
+    "/angular-ui/manifest.webmanifest": "ce968628fe6663a588169aa959514f8dca718eeb",
     "/angular-ui/polyfills.a2de065f1d5fe58e.js": "a7c2971e90d081e7177850e9958149dbd850d7a3",
     "/angular-ui/runtime.568013e597832134.js": "239216ad46eeda619598b3dbe6387e7314a08ec3",
     "/angular-ui/styles.80cf0b284c3d242b.css": "54e737cac024be82a0a0f9c2e7f4d197718374f5"

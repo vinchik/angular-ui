@@ -1,7 +1,7 @@
 {
-  "id": "speak-and-learn",
-  "name": "Speak&Learn",
-  "short_name": "Speak&Learn",
+  "id": "LinguaTone",
+  "name": "LinguaTone",
+  "short_name": "LinguaTone",
   "theme_color": "#7cf10e",
   "background_color": "#f60cf2",
   "display": "fullscreen",
